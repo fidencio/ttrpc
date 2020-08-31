@@ -1,4 +1,4 @@
-module github.com/containerd/ttrpc
+module github.com/fidencio/ttrpc
 
 go 1.13
 
